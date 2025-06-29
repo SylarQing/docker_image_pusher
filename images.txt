@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 #netease-youdao/emotivoice
 # 1
-syq163/emoti-voice
+#syq163/emoti-voice
+n8nio/n8n
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
